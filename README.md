@@ -3,13 +3,13 @@ This is a project is using NodeJS and ReactJS, where it checks whether any permu
 
 ## Getting started
 
-###Development mode
+### Development mode
 
 ```
 npm start
 ```
 
-###Production mode - minified version
+### Production mode - minified version
 ```
 npm run build:prod
 ```
